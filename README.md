@@ -47,4 +47,4 @@ Las Vegas dice app. You can make the die roll at the press of a button or by sha
 * Понимание того, что нужно Xcode для правильной компоновки дизайна.
 * Как использовать представления стека для создания сложных интерфейсов.
 
-![Simulator Screen Shot - iPhone 11 - 2022-01-17 at 08 53 33](https://user-images.githubusercontent.com/64682381/149707342-d1a3e647-7ed1-4f5c-a1e8-8a4c48aae111.png)
+![Simulator Screen Shot - iPhone 11](https://user-images.githubusercontent.com/64682381/149707342-d1a3e647-7ed1-4f5c-a1e8-8a4c48aae111.png)
