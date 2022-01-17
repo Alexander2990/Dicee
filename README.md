@@ -5,7 +5,7 @@
 
 Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
 
-## What did you learn:
+## What I learned::
 
 * How to clone an existing Xcode project from GitHub.
 * Created an application with behavior and functionality.
@@ -29,7 +29,7 @@ Las Vegas dice app. You can make the die roll at the press of a button or by sha
 
 Приложение для игры в кости в Лас-Вегасе. Вы можете сделать бросок кубика нажатием кнопки или встряхиванием телефона. С этим приложением в вашем кармане вы будете полностью готовы свести любые счеты на ходу!
 
-## Чему научился:
+## Чему я научился:
 
 * Как клонировать существующий проект Xcode с GitHub.
 * Создал приложение с поведением и функциональностью.
