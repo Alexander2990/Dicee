@@ -1,11 +1,11 @@
 # Dicee
 
-## The App Brewery Complete App Development course project. 
-## Swift Programming Basics - Collections, Constants & Variables. Auto Layout and Responsive UIs
+### The App Brewery Complete App Development course project. 
+### Swift Programming Basics - Collections, Constants & Variables. Auto Layout and Responsive UIs
 
 Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
 
-## What I learned:
+### What I learned:
 
 * How to clone an existing Xcode project from GitHub.
 * Created an application with behavior and functionality.
@@ -24,12 +24,12 @@ Las Vegas dice app. You can make the die roll at the press of a button or by sha
 * How to use stack views to create complex interfaces.
 -----------------------------------------
 
-## Учебный проект в рамках курса The App Brewery Complete App Development.
-## Основы программирования Swift — коллекции, константы и переменные. Auto Layout и Адаптивный UIs.
+### Учебный проект в рамках курса The App Brewery Complete App Development.
+### Основы программирования Swift — коллекции, константы и переменные. Auto Layout и Адаптивный UIs.
 
 Приложение для игры в кости в Лас-Вегасе. Вы можете сделать бросок кубика нажатием кнопки или встряхиванием телефона. С этим приложением в вашем кармане вы будете полностью готовы свести любые счеты на ходу!
 
-## Чему я научился:
+### Чему я научился:
 
 * Как клонировать существующий проект Xcode с GitHub.
 * Создал приложение с поведением и функциональностью.
